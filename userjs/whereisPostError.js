@@ -1,0 +1,1 @@
+opera.postError=function(){undefined()};

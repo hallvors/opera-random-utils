@@ -1,0 +1,1 @@
+opera.defineMagicVariable('n', null, function(){undefined()});
